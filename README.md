@@ -11,8 +11,10 @@
 </p>
 <br>
 
- 
-## Expertise
+
+<p align="center">
+## Tech Stack
+</p>
 
 <img align="left" alt="dotNet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
