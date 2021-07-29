@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Lives-Pakistan-green" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Urdu-yellowgreen" />
 </p>
-<br>
 <h1 align="center">Tech Stack</h1>
 <p align="center">
 <img alt="dotNet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -26,7 +25,6 @@
 
 <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
-<br>
 <h1 align="center">Connect Now</h1>
 
 <p align="center">
@@ -50,5 +48,4 @@
   <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-<br>
 </p>
