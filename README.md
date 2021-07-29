@@ -30,6 +30,9 @@
 <h1 align="center">Connect Now</h1>
 
 <p align="center">
+  <a href="https://www.qries.com/">
+ <img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 [<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ahmedtahami)
 
 [<img alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/14420443/ahmed-naeem)
