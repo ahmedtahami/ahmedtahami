@@ -26,7 +26,6 @@
 <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 <br>
-<br>
 <h1 align="center">Connect Now</h1>
 <p align="center">
 
@@ -40,6 +39,5 @@
 
 [<img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/ahmedtahami)
 </p>
-<br>
 <br>
 </p>
