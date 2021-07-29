@@ -2,9 +2,13 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ahmed Naeem</h1>
 <h3 align="center">ASP.NET Developer | Back-end Developer </h3>
-
+<p align="center">
+<img src="https://img.shields.io/badge/Age-20-success" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Computing-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Pakistan-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Urdu-brightgreen" />
+</p>
 <br>
-
  
 ## Expertise
 
@@ -31,7 +35,7 @@
 
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/14420443/ahmed-naeem)
 
-[<img align="left" alt="facebook" src="https://img.shields.io/static/v1?style=for-the-badge&message=Upwork&color=222222&logo=Upwork&logoColor=6FDA44&label=" />](https://www.upwork.com/fl/ahmedntahami/)
+[<img align="left" alt="upwork" src="https://img.shields.io/static/v1?style=for-the-badge&message=Upwork&color=222222&logo=Upwork&logoColor=6FDA44&label=" />](https://www.upwork.com/fl/ahmedtahami/)
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ahmedtahami)
 
