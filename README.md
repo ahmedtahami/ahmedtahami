@@ -2,6 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ahmed Naeem</h1>
 <h3 align="center">ASP.NET Developer | Back-End Developer </h3>
 <p align="center">
+  ![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
   <img src="https://img.shields.io/badge/Age-20-success" />
   <img src="https://img.shields.io/badge/Education-BSCS-informational" />
   <img src="https://img.shields.io/badge/Focus-Cloud%20Computing-9cf" />
@@ -28,7 +29,6 @@
 <br>
 <h1 align="center">Connect Now</h1>
 
-<object data="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://linkedin.com">Hello</object>
 [<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ahmedtahami)
 
 [<img alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/14420443/ahmed-naeem)
