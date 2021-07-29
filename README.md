@@ -1,6 +1,7 @@
 <p align="center">
 
-Hi 👋, I'm Ahmed Naeem, An undergradute Computer Science student @UCP with Software Development skills 🚀 from Pakistan.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ahmed Naeem</h1>
+
 - 🔭 Working on multiple frontend and backend projects.
 - 🌱 Learning back-end development concepts in depth.
 <br>
