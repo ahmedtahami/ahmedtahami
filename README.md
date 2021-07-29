@@ -1,8 +1,8 @@
 ### Hello World 👋
-I am a asp.net developer from pakistan
+Hi, I'm Ahmed Naeem, An undergradute Computer Science student @UCP with Software Development skills 🚀 from Pakistan, currently, I'm Developer Student Club Lead 🙍🏽‍♂️ @googledevelopers, Freelance Software Developer 👨🏽‍💻 @Fiverr, Open Source Contributor 👨🏽‍💼@MERL-UIT with that I'm a Founder of @pytroops community and a Student Memeber 🙍🏽‍♂️ @IEEE. Beside's programming, I enjoy music, traveling, TvShows(Silicon Valley is my favorite show) and programming again.
 
 - 🔭 Working on multiple frontend and backend projects.
-- 🌱 Learning design patterns in depth
+- 🌱 Learning back-end development concepts in depth.
 <br>
 
 ## Connect with me
