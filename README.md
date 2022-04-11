@@ -6,7 +6,7 @@
   <img src="https://gpvc.arturio.dev/ahmedtahami" />
   <img src="https://img.shields.io/badge/Age-21-orange" />
   <img src="https://img.shields.io/badge/Education-BSCS-informational" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20Computing-9cf" />
+  <img src="https://img.shields.io/badge/Focus-Blockchain-9cf" />
   <img src="https://img.shields.io/badge/Lives-Pakistan-green" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Urdu-yellowgreen" />
 </p>
